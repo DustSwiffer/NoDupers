@@ -1,0 +1,13 @@
+name: NoDupers
+version: ${version}
+main: nl.dustswiffer.nl.nodupers.NoDupers
+authors: [DustSwiffer]
+description: Keeps out the stinkies from duping
+website: nl.dustswiffer
+commands:
+  nodupers:
+    description: information about the author
+    aliases: nd
+  idata:
+    description: gives information of item in mainhand
+    aliases: itemdata
